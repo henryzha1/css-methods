@@ -1,19 +1,14 @@
-.Odd {
-    background-color: #FFCCCB;
-    font: Verdana, "DejaVu Sans", sans-serif; 
+.first,
+.second{
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
 }
 
-#Second {
-    color:	#00FFFF;
-    font-size: 36px;
+.first{
+    background-color: black;
+    color: white;
 }
 
-.Third {
-    font-size: 24px;
-}
-
-#Fourth {
-    background-color: #90EE90;
-    font-size: 24px;
-    font-weight: 700;
+.second {
+    background-color: yellow;
 }
